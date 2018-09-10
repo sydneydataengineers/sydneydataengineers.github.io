@@ -7,7 +7,7 @@ The Sydney Data Engineering meetup (SDE) is dedicated to providing a harassment-
 
 Harassment includes offensive verbal or written comments related to sex, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, nationality, or religious beliefs, deliberate intimidation, threats, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Sexual language and imagery is not appropriate for any SDE event or communication channel.
 
-Community members are not to use Sydney Tech Leader meetings or communication channels in order to proposition any other member.
+Community members are not to use Sydney Data Engineering meetings or communication channels in order to proposition any other member.
 
 Community members asked to stop any harassing behaviour are expected to comply immediately. Sponsors and presenters are also subject to the anti-harassment policy.
 
