@@ -11,6 +11,14 @@ Community members are not to use Sydney Data Engineering meetings or communicati
 
 Community members asked to stop any harassing behaviour are expected to comply immediately. Sponsors and presenters are also subject to the anti-harassment policy.
 
-If a community member engages in harassing behaviour, the SDE organisers may take any action they deem appropriate, including warning the offender or expulsion from the SDE community. If you are being harassed please contact a SDE organiser immediately. If you notice that someone else is being harassed please intercede or contact an SDE organiser immediately. If you have any other concerns, please contact an SDE organiser.
+If a community member engages in harassing behaviour, the SDE organisers may take any action they deem appropriate, including warning the offender or expulsion from the SDE community. If you are being harassed please contact a SDE organiser immediately. If you notice that someone else is being harassed please intercede or contact a SDE organiser immediately. If you have any other concerns, please contact a SDE organiser.
+
+##Contact Info
+
+Website: [https://sydneydataengineers.github.io/](https://sydneydataengineers.github.io/)
+
+Email: [sydneydataengineers@gmail.com](mailto:sydneydataengineers@gmail.com)
+
+If you have questions or feedback about this Code of Conduct please contact one of the organisers.
 
 [back](./)
